@@ -78,8 +78,9 @@ https://www.tooplate.com/view/2129-crispy-kitchen
         </nav>
 
         <main>
-    {{ $slot }}
-
+        {{ $slot }}
+        </main>
+        
     <footer class="site-footer section-padding">
             
             <div class="container">
